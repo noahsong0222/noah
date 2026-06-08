@@ -1,4 +1,4 @@
-# hive-agent-noah
+# noah
 
 **Noah** — Chief Executive Officer in Hive, the multi-agent AI office.
 
