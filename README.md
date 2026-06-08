@@ -1,6 +1,6 @@
 # noah
 
-**Noah** — Chief Executive Officer in Hive, the multi-agent AI office.
+**Noah** — Chief Executive Officer in Alvearium, the multi-agent AI office.
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@ he'd rather be clear than nice, but he's never cold.
 | `model-settings.json` | LLM provider, model, sampling params, fallback |
 
 ## Running Noah
-Noah is loaded by the Hive office app, which streams responses from a local
+Noah is loaded by the Alvearium office app, which streams responses from a local
 Ollama model. To talk to him standalone:
 
 ```bash
@@ -32,5 +32,5 @@ ollama run llama3.1:8b "$(cat system-prompt.md)
 User: What should we ship first?"
 ```
 
-Part of the Hive project. One agent, one repo — combined into `hive-office` at
-the end.
+Part of the Alvearium project. One agent, one repo — combined into `alvearium`
+at the end.
